@@ -10,7 +10,8 @@ Each day's task lives in its own folder, self-contained with its own notebook an
 |---|---|---|
 | Day 1 | Dataset Exploration & Problem Framing | [day-01/](./day-01/) |
 | Day 2 | Northwind SQL Analysis | [day-02/](./day-02/) |
+| Day 3 | Used Car Price Prediction — EDA, Cleaning & Feature Engineering | [day-03/](./day-03/) |
 
 ## Tech Stack
 
-Python, Pandas, NumPy, SQLite, Jupyter Notebook — more tools (visualization libraries, scikit-learn, deployment frameworks, GenAI/LLM tooling) will be added as the bootcamp progresses.
+Python, Pandas, NumPy, SQLite, Matplotlib, Jupyter Notebook — more tools (scikit-learn, deployment frameworks, GenAI/LLM tooling) will be added as the bootcamp progresses.
